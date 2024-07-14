@@ -26,8 +26,8 @@ Original Author: Adhika Lie
 
 #include <stdint.h>
 #include <math.h>
-#include <eigen3/Eigen/Core>
-#include <eigen3/Eigen/Dense>
+#include </opt/homebrew/opt/eigen/include/eigen3/Eigen/Core>
+#include </opt/homebrew/opt/eigen/include/eigen3/Eigen/Dense>
 #include <tuple>
 #include <mutex>
 #include <shared_mutex>
